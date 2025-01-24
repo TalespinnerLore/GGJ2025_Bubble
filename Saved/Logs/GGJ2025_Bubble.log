@@ -5077,3 +5077,862 @@ Script Stack (0 frames) :
 [2025.01.24-14.17.30:632][924]LogContentValidation: Display: Validating /Game/BUBBLE_JAM/BP_SlowingWall.BP_SlowingWall_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_SlowingWall_C_UAID_04D9F5833B0D124502_1846255527
 [2025.01.24-14.17.30:632][924]LogContentValidation: Display: Validating /Game/BUBBLE_JAM/BP_SlowingWall.BP_SlowingWall_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_SlowingWall_C_UAID_04D9F5833B0D124502_1995567530
 [2025.01.24-14.17.30:632][924]LogContentValidation: Display: Validating /Game/BUBBLE_JAM/BP_SlowingWall.BP_SlowingWall_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_SlowingWall_C_UAID_04D9F5833B0D124502_1939487529
+[2025.01.24-14.18.37:595][317]BlueprintLog: New page: Compile WBP_BubbleUI
+[2025.01.24-14.18.37:652][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.24-14.18.37:654][317]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.18.37:654][317]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.18.37:654][317]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.24-14.18.37:655][317]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.18.37:655][317]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.18.37:655][317]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.18.37:655][317]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.18.37:655][317]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.18.37:655][317]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.18.37:655][317]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 200.0
+[2025.01.24-14.18.37:697][317]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.18.37:697][317]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.18.37:697][317]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.24-14.18.37:697][317]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.18.37:697][317]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.18.37:697][317]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.18.37:697][317]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.18.37:697][317]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.18.37:697][317]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.18.37:698][317]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 200.0
+[2025.01.24-14.18.38:435][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-14.18.38:504][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/WBP_BubbleUI" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset" SILENT=true
+[2025.01.24-14.18.38:526][360]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/WBP_BubbleUI
+[2025.01.24-14.18.38:526][360]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/WBP_BubbleUI70F27A86456F4A54302CA2947DD38AFA.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset'
+[2025.01.24-14.18.38:536][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 1.86 sec)
+[2025.01.24-14.18.38:543][360]AssetCheck: New page: Asset Save: WBP_BubbleUI
+[2025.01.24-14.18.38:543][360]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BUBBLE_JAM/WBP_BubbleUI.WBP_BubbleUI
+[2025.01.24-14.28.45:903][508]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2025.01.24-14.28.45:904][508]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2025.01.24-14.38.37:508][289]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2025.01.24-14.38.40:440][500]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-14.38.40:505][500]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/WBP_BubbleUI" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset" SILENT=true
+[2025.01.24-14.38.40:527][500]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/WBP_BubbleUI
+[2025.01.24-14.38.40:528][500]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/WBP_BubbleUIB2E84C444606171FD489298D39B50176.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset'
+[2025.01.24-14.38.40:539][500]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.96 sec)
+[2025.01.24-14.38.40:548][500]AssetCheck: New page: Asset Save: WBP_BubbleUI
+[2025.01.24-14.38.40:549][500]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BUBBLE_JAM/WBP_BubbleUI.WBP_BubbleUI
+[2025.01.24-14.40.02:163][655]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.01.24-14.40.02:179][655]LogSlate: Took 0.014383 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.01.24-14.45.26:622][957]LogDerivedDataCache: C:/Users/Jan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.054 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 552 files in 945 folders with total size 4 MiB.
+[2025.01.24-14.46.09:986][745]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.24-14.46.18:734][874]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.24-14.46.18:940][875]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.01.24-14.46.18:944][875]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.044
+[2025.01.24-14.46.18:945][875]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BUBBLE_JAM/WBP_BubbleUI] ([2] browsable assets)...
+[2025.01.24-14.46.18:948][875]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BUBBLE_JAM/WBP_BubbleUI.WBP_BubbleUI]
+[2025.01.24-14.46.18:948][875]OBJ SavePackage: Finished generating thumbnails for package [/Game/BUBBLE_JAM/WBP_BubbleUI]
+[2025.01.24-14.46.18:973][875]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BUBBLE_JAM/WBP_BubbleUI_Auto1
+[2025.01.24-14.46.18:974][875]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/WBP_BubbleUI_Auto1DA9F173D4357DAA7C899DC96709934B6.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/Autosaves/Game/BUBBLE_JAM/WBP_BubbleUI_Auto1.uasset'
+[2025.01.24-14.46.18:974][875]LogFileHelpers: Auto-saving content packages took 0.030
+[2025.01.24-14.46.25:704][942]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.24-14.50.05:632][444]BlueprintLog: New page: Compile WBP_BubbleUI
+[2025.01.24-14.50.05:696][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2025.01.24-14.50.05:699][444]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.50.05:699][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.50.05:700][444]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.24-14.50.05:700][444]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.50.05:700][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.50.05:700][444]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.50.05:700][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.50.05:700][444]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.50.05:700][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.50.05:700][444]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 200.0
+[2025.01.24-14.50.05:755][444]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.50.05:755][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.50.05:755][444]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.24-14.50.05:755][444]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.50.05:755][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.50.05:755][444]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.50.05:755][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.50.05:756][444]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.50.05:756][444]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.50.05:756][444]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 200.0
+[2025.01.24-14.50.06:478][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-14.50.06:541][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/WBP_BubbleUI" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset" SILENT=true
+[2025.01.24-14.50.06:567][491]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/WBP_BubbleUI
+[2025.01.24-14.50.06:567][491]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/WBP_BubbleUIBCFC73F94C3EE534CACE088323E20998.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset'
+[2025.01.24-14.50.06:576][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2.06 sec)
+[2025.01.24-14.50.06:584][491]AssetCheck: New page: Asset Save: WBP_BubbleUI
+[2025.01.24-14.50.06:584][491]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BUBBLE_JAM/WBP_BubbleUI.WBP_BubbleUI
+[2025.01.24-14.51.47:220][886]BlueprintLog: New page: Compile BP_TopDownCharacter
+[2025.01.24-14.51.47:384][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.24-14.51.47:388][886]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.51.47:388][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.51.47:388][886]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.24-14.51.47:388][886]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.51.47:388][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.51.47:388][886]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.51.47:388][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.51.47:389][886]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.51.47:389][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.51.47:389][886]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 200.0
+[2025.01.24-14.51.47:433][886]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.51.47:433][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.51.47:433][886]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.24-14.51.47:434][886]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.51.47:434][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.51.47:434][886]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.51.47:434][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.51.47:434][886]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.51.47:434][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.51.47:434][886]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 200.0
+[2025.01.24-14.51.47:910][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-14.51.47:983][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/BP_TopDownCharacter" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_TopDownCharacter.uasset" SILENT=true
+[2025.01.24-14.51.47:998][910]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/BP_TopDownCharacter
+[2025.01.24-14.51.47:999][910]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/BP_TopDownCharacter2C5EFFDD4AA79E10ECC7E5943E457335.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_TopDownCharacter.uasset'
+[2025.01.24-14.51.48:009][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 2.16 sec)
+[2025.01.24-14.51.48:016][910]AssetCheck: New page: Asset Save: BP_TopDownCharacter
+[2025.01.24-14.51.48:016][910]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BUBBLE_JAM/BP_TopDownCharacter.BP_TopDownCharacter
+[2025.01.24-14.51.50:520][142]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-14.51.50:526][142]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.24-14.51.50:526][142]LogWorldPartition: Display: GenerateStreaming started...
+[2025.01.24-14.51.50:526][142]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.01.24-14.51.50:526][142]LogWorldPartition: Display: GetPartitionedActors took 9 us (total: 1 ms)
+[2025.01.24-14.51.50:527][142]LogWorldPartition: Display: GenerateStreaming took 105 us (total: 3 ms)
+[2025.01.24-14.51.50:527][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-14.51.50:527][142]PIE: New page: PIE session: TopDownMap (24 Jan 2025, 14:51:50)
+[2025.01.24-14.51.50:549][142]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.01.24-14.51.50:553][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003879s)
+[2025.01.24-14.51.50:553][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003924s)
+[2025.01.24-14.51.50:553][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.24-14.51.50:553][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.24-14.51.50:553][142]LogAIModule: Creating AISystem for world TopDownMap
+[2025.01.24-14.51.50:554][142]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.24-14.51.50:554][142]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.24-14.51.50:554][142]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.01.24-14.51.50:555][142]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2025.01.24-14.51.50:555][142]LogWorldPartition: Display: WorldPartition initialize took 835 us (total: 809 ms)
+[2025.01.24-14.51.50:555][142]LogPlayLevel: PIE: World Init took: (0.001915s)
+[2025.01.24-14.51.50:583][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.24-14.51.50:586][142]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.01.24-14.51.50:586][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-14.51.50:586][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-14.51.50:586][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-14.51.50:586][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-14.51.50:586][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-14.51.50:586][142]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.01.24-14.51.50:586][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-14.51.50:586][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-14.51.50:587][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-14.51.50:587][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-14.51.50:587][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-14.51.50:590][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-14.51.50:717][142]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)
+[2025.01.24-14.51.50:717][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-14.51.50:717][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-14.51.50:717][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-14.51.50:718][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.01.24-14.51.50:718][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2025.01.24-14.51.50:724][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.01.24-14.51.50:724][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.01.24-14.51.50:724][142]LogInit: FAudioDevice initialized with ID 22.
+[2025.01.24-14.51.50:725][142]LogAudio: Display: Audio Device (ID: 22) registered with world 'TopDownMap'.
+[2025.01.24-14.51.50:725][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.01.24-14.51.50:729][142]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.01.24-14.51.50:730][142]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.01.24-14.51.50
+[2025.01.24-14.51.50:730][142]LogWorld: Bringing up level for play took: 0.001183
+[2025.01.24-14.51.50:733][142]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2025.01.24-14.51.50:739][142]PIE: Server logged in
+[2025.01.24-14.51.50:740][142]PIE: Play in editor total start time 0.215 seconds.
+[2025.01.24-14.51.51:807][255]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.51.51:807][255]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.51.52:663][355]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 600.0
+[2025.01.24-14.51.52:755][366]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 600.0
+[2025.01.24-14.51.52:806][371]LogBlueprintUserMessages: [BP_BUBBLE_C_0] BUBBLESTOP
+[2025.01.24-14.51.52:806][371]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 0.0
+[2025.01.24-14.51.53:163][413]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.25
+[2025.01.24-14.51.54:416][561]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 670.0
+[2025.01.24-14.51.54:508][572]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 670.0
+[2025.01.24-14.51.54:549][577]LogBlueprintUserMessages: [BP_BUBBLE_C_1] BUBBLESTOP
+[2025.01.24-14.51.54:549][577]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 0.0
+[2025.01.24-14.51.54:882][616]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.3
+[2025.01.24-14.51.56:747][836]LogBlueprintUserMessages: [BP_BUBBLE_C_2] 750.0
+[2025.01.24-14.51.56:839][847]LogBlueprintUserMessages: [BP_BUBBLE_C_2] 750.0
+[2025.01.24-14.51.57:193][888]LogBlueprintUserMessages: [BP_BUBBLE_C_2] BUBBLESTOP
+[2025.01.24-14.51.57:193][888]LogBlueprintUserMessages: [BP_BUBBLE_C_2] 0.0
+[2025.01.24-14.51.57:628][940]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.2
+[2025.01.24-14.51.58:853][ 81]LogBlueprintUserMessages: [BP_BUBBLE_C_3] 810.0
+[2025.01.24-14.51.58:944][ 92]LogBlueprintUserMessages: [BP_BUBBLE_C_3] 810.0
+[2025.01.24-14.51.59:094][109]LogBlueprintUserMessages: [BP_BUBBLE_C_3] BUBBLESTOP
+[2025.01.24-14.51.59:094][109]LogBlueprintUserMessages: [BP_BUBBLE_C_3] 0.0
+[2025.01.24-14.52.00:211][242]LogBlueprintUserMessages: [BP_BUBBLE_C_4] 810.0
+[2025.01.24-14.52.00:301][253]LogBlueprintUserMessages: [BP_BUBBLE_C_4] 810.0
+[2025.01.24-14.52.00:343][258]LogBlueprintUserMessages: [BP_BUBBLE_C_4] BUBBLESTOP
+[2025.01.24-14.52.00:343][258]LogBlueprintUserMessages: [BP_BUBBLE_C_4] 0.0
+[2025.01.24-14.52.00:627][292]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.3
+[2025.01.24-14.52.01:549][402]LogBlueprintUserMessages: [BP_BUBBLE_C_5] 890.0
+[2025.01.24-14.52.01:653][412]LogBlueprintUserMessages: [BP_BUBBLE_C_5] BUBBLESTOP
+[2025.01.24-14.52.01:653][412]LogBlueprintUserMessages: [BP_BUBBLE_C_5] 0.0
+[2025.01.24-14.52.01:654][412]LogBlueprintUserMessages: [BP_BUBBLE_C_5] 0.0
+[2025.01.24-14.52.02:847][554]LogBlueprintUserMessages: [BP_BUBBLE_C_6] 890.0
+[2025.01.24-14.52.02:904][561]LogBlueprintUserMessages: [BP_BUBBLE_C_6] BUBBLESTOP
+[2025.01.24-14.52.02:904][561]LogBlueprintUserMessages: [BP_BUBBLE_C_6] 0.0
+[2025.01.24-14.52.02:939][565]LogBlueprintUserMessages: [BP_BUBBLE_C_6] 0.0
+[2025.01.24-14.52.03:189][595]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.25
+[2025.01.24-14.52.04:520][752]LogBlueprintUserMessages: [BP_BUBBLE_C_7] 960.0
+[2025.01.24-14.52.04:569][758]LogBlueprintUserMessages: [BP_BUBBLE_C_7] BUBBLESTOP
+[2025.01.24-14.52.04:569][758]LogBlueprintUserMessages: [BP_BUBBLE_C_7] 0.0
+[2025.01.24-14.52.04:611][763]LogBlueprintUserMessages: [BP_BUBBLE_C_7] 0.0
+[2025.01.24-14.52.04:837][790]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.2
+[2025.01.24-14.52.05:704][891]LogBlueprintUserMessages: [BP_BUBBLE_C_8] 920.0
+[2025.01.24-14.52.05:808][902]LogBlueprintUserMessages: [BP_BUBBLE_C_8] 920.0
+[2025.01.24-14.52.06:853][ 25]LogBlueprintUserMessages: [BP_BUBBLE_C_9] 920.0
+[2025.01.24-14.52.06:869][ 27]LogBlueprintUserMessages: [BP_BUBBLE_C_9] BUBBLESTOP
+[2025.01.24-14.52.06:869][ 27]LogBlueprintUserMessages: [BP_BUBBLE_C_9] 0.0
+[2025.01.24-14.52.06:949][ 36]LogBlueprintUserMessages: [BP_BUBBLE_C_9] 0.0
+[2025.01.24-14.52.10:634][471]LogBlueprintUserMessages: [BP_BUBBLE_C_10] 880.0
+[2025.01.24-14.52.10:679][476]LogBlueprintUserMessages: [BP_BUBBLE_C_10] BUBBLESTOP
+[2025.01.24-14.52.10:679][476]LogBlueprintUserMessages: [BP_BUBBLE_C_10] 0.0
+[2025.01.24-14.52.10:731][482]LogBlueprintUserMessages: [BP_BUBBLE_C_10] 0.0
+[2025.01.24-14.52.10:964][510]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.2
+[2025.01.24-14.52.11:742][601]LogBlueprintUserMessages: [BP_BUBBLE_C_11] 940.0
+[2025.01.24-14.52.11:835][611]LogBlueprintUserMessages: [BP_BUBBLE_C_11] BUBBLESTOP
+[2025.01.24-14.52.11:835][611]LogBlueprintUserMessages: [BP_BUBBLE_C_11] 0.0
+[2025.01.24-14.52.11:836][611]LogBlueprintUserMessages: [BP_BUBBLE_C_11] 0.0
+[2025.01.24-14.52.12:127][646]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.2
+[2025.01.24-14.52.12:282][664]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.52.12:940][743]LogBlueprintUserMessages: [BP_BUBBLE_C_12] 950.0
+[2025.01.24-14.52.13:031][754]LogBlueprintUserMessages: [BP_BUBBLE_C_12] 950.0
+[2025.01.24-14.52.14:262][899]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.2
+[2025.01.24-14.52.14:914][977]LogBlueprintUserMessages: [BP_BUBBLE_C_13] 1010.0
+[2025.01.24-14.52.15:006][988]LogBlueprintUserMessages: [BP_BUBBLE_C_13] 1010.0
+[2025.01.24-14.52.15:023][990]LogBlueprintUserMessages: [BP_BUBBLE_C_13] BUBBLESTOP
+[2025.01.24-14.52.15:023][990]LogBlueprintUserMessages: [BP_BUBBLE_C_13] 0.0
+[2025.01.24-14.52.15:331][ 27]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.25
+[2025.01.24-14.52.16:997][223]LogBlueprintUserMessages: [BP_BUBBLE_C_14] 980.0
+[2025.01.24-14.52.17:094][234]LogBlueprintUserMessages: [BP_BUBBLE_C_14] 980.0
+[2025.01.24-14.52.17:169][243]LogBlueprintUserMessages: [BP_BUBBLE_C_14] BUBBLESTOP
+[2025.01.24-14.52.17:169][243]LogBlueprintUserMessages: [BP_BUBBLE_C_14] 0.0
+[2025.01.24-14.52.17:461][278]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.3
+[2025.01.24-14.52.17:831][321]LogBlueprintUserMessages: [BP_BUBBLE_C_15] 1060.0
+[2025.01.24-14.52.17:926][332]LogBlueprintUserMessages: [BP_BUBBLE_C_15] 1060.0
+[2025.01.24-14.52.17:967][337]LogBlueprintUserMessages: [BP_BUBBLE_C_15] BUBBLESTOP
+[2025.01.24-14.52.17:967][337]LogBlueprintUserMessages: [BP_BUBBLE_C_15] 0.0
+[2025.01.24-14.52.18:302][377]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.52.19:019][462]LogBlueprintUserMessages: [BP_BUBBLE_C_16] 1100.0
+[2025.01.24-14.52.19:044][465]LogBlueprintUserMessages: [BP_BUBBLE_C_16] BUBBLESTOP
+[2025.01.24-14.52.19:044][465]LogBlueprintUserMessages: [BP_BUBBLE_C_16] 0.0
+[2025.01.24-14.52.19:111][473]LogBlueprintUserMessages: [BP_BUBBLE_C_16] 0.0
+[2025.01.24-14.52.19:699][541]LogBlueprintUserMessages: [BP_BUBBLE_C_17] 1150.0
+[2025.01.24-14.52.19:700][541]LogBlueprintUserMessages: [BP_BUBBLE_C_17] BUBBLESTOP
+[2025.01.24-14.52.19:700][541]LogBlueprintUserMessages: [BP_BUBBLE_C_17] 0.0
+[2025.01.24-14.52.19:790][552]LogBlueprintUserMessages: [BP_BUBBLE_C_17] 0.0
+[2025.01.24-14.52.21:259][725]LogBlueprintUserMessages: [BP_BUBBLE_C_18] 1190.0
+[2025.01.24-14.52.21:282][728]LogBlueprintUserMessages: [BP_BUBBLE_C_18] BUBBLESTOP
+[2025.01.24-14.52.21:282][728]LogBlueprintUserMessages: [BP_BUBBLE_C_18] 0.0
+[2025.01.24-14.52.21:351][736]LogBlueprintUserMessages: [BP_BUBBLE_C_18] 0.0
+[2025.01.24-14.52.21:551][760]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.52.22:172][834]LogBlueprintUserMessages: [BP_BUBBLE_C_19] 1200.0
+[2025.01.24-14.52.22:239][842]LogBlueprintUserMessages: [BP_BUBBLE_C_19] BUBBLESTOP
+[2025.01.24-14.52.22:239][842]LogBlueprintUserMessages: [BP_BUBBLE_C_19] 0.0
+[2025.01.24-14.52.22:264][845]LogBlueprintUserMessages: [BP_BUBBLE_C_19] 0.0
+[2025.01.24-14.52.22:501][873]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.52.23:374][975]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.52.23:374][975]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.52.24:169][ 70]LogBlueprintUserMessages: [BP_BUBBLE_C_20] 1100.0
+[2025.01.24-14.52.24:260][ 81]LogBlueprintUserMessages: [BP_BUBBLE_C_20] 1100.0
+[2025.01.24-14.52.24:293][ 85]LogBlueprintUserMessages: [BP_BUBBLE_C_20] BUBBLESTOP
+[2025.01.24-14.52.24:293][ 85]LogBlueprintUserMessages: [BP_BUBBLE_C_20] 0.0
+[2025.01.24-14.52.25:483][227]LogBlueprintUserMessages: [BP_BUBBLE_C_21] 1140.0
+[2025.01.24-14.52.25:574][238]LogBlueprintUserMessages: [BP_BUBBLE_C_21] 1140.0
+[2025.01.24-14.52.25:582][239]LogBlueprintUserMessages: [BP_BUBBLE_C_21] BUBBLESTOP
+[2025.01.24-14.52.25:582][239]LogBlueprintUserMessages: [BP_BUBBLE_C_21] 0.0
+[2025.01.24-14.52.25:632][245]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.52.28:973][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.52.28:973][629]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.52.30:129][767]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.52.30:130][767]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.52.30:788][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-14.52.30:788][837]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.01.24-14.52.30:788][837]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-14.52.30:788][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-14.52.30:788][837]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.01.24-14.52.30:793][837]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-14.52.30:798][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-14.52.30:830][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.24-14.52.30:831][837]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.01.24-14.52.30:831][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.01.24-14.52.30:833][837]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2025.01.24-14.52.30:838][837]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-14.52.30:842][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.24-14.52.30:958][838]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2025.01.24-14.53.59:375][787]BlueprintLog: New page: Compile WBP_BubbleUI
+[2025.01.24-14.53.59:463][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.01.24-14.53.59:467][787]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.53.59:467][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.53.59:467][787]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.24-14.53.59:467][787]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.53.59:467][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.53.59:467][787]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.53.59:467][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.53.59:468][787]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.53.59:468][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.53.59:468][787]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 200.0
+[2025.01.24-14.53.59:548][787]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.53.59:548][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.53.59:548][787]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.24-14.53.59:549][787]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.53.59:549][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.53.59:549][787]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.53.59:549][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.53.59:549][787]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.53.59:549][787]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.53.59:549][787]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 200.0
+[2025.01.24-14.54.00:976][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-14.54.01:066][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/WBP_BubbleUI" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset" SILENT=true
+[2025.01.24-14.54.01:093][883]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/WBP_BubbleUI
+[2025.01.24-14.54.01:093][883]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/WBP_BubbleUI370D2EDF479F6298FDCE25A98484F340.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset'
+[2025.01.24-14.54.01:108][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 2.29 sec)
+[2025.01.24-14.54.01:115][883]AssetCheck: New page: Asset Save: WBP_BubbleUI
+[2025.01.24-14.54.01:115][883]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BUBBLE_JAM/WBP_BubbleUI.WBP_BubbleUI
+[2025.01.24-14.54.04:669][211]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-14.54.04:674][211]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.24-14.54.04:675][211]LogWorldPartition: Display: GenerateStreaming started...
+[2025.01.24-14.54.04:675][211]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.01.24-14.54.04:675][211]LogWorldPartition: Display: GetPartitionedActors took 6 us (total: 1 ms)
+[2025.01.24-14.54.04:675][211]LogWorldPartition: Display: GenerateStreaming took 98 us (total: 3 ms)
+[2025.01.24-14.54.04:676][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-14.54.04:676][211]PIE: New page: PIE session: TopDownMap (24 Jan 2025, 14:54:04)
+[2025.01.24-14.54.04:677][211]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.01.24-14.54.04:680][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003651s)
+[2025.01.24-14.54.04:680][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003683s)
+[2025.01.24-14.54.04:680][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.24-14.54.04:680][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.24-14.54.04:681][211]LogAIModule: Creating AISystem for world TopDownMap
+[2025.01.24-14.54.04:681][211]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.24-14.54.04:681][211]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.24-14.54.04:681][211]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.01.24-14.54.04:682][211]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2025.01.24-14.54.04:682][211]LogWorldPartition: Display: WorldPartition initialize took 869 us (total: 810 ms)
+[2025.01.24-14.54.04:682][211]LogPlayLevel: PIE: World Init took: (0.001890s)
+[2025.01.24-14.54.04:709][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.24-14.54.04:711][211]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.01.24-14.54.04:711][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-14.54.04:711][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-14.54.04:711][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-14.54.04:711][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-14.54.04:711][211]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-14.54.04:711][211]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.01.24-14.54.04:711][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-14.54.04:711][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-14.54.04:712][211]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-14.54.04:712][211]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-14.54.04:712][211]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-14.54.04:714][211]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-14.54.04:837][211]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)
+[2025.01.24-14.54.04:838][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-14.54.04:838][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-14.54.04:838][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-14.54.04:839][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.01.24-14.54.04:839][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2025.01.24-14.54.04:841][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.01.24-14.54.04:841][211]LogInit: FAudioDevice initialized with ID 23.
+[2025.01.24-14.54.04:841][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.01.24-14.54.04:841][211]LogAudio: Display: Audio Device (ID: 23) registered with world 'TopDownMap'.
+[2025.01.24-14.54.04:841][211]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.01.24-14.54.04:844][211]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.01.24-14.54.04:845][211]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.01.24-14.54.04
+[2025.01.24-14.54.04:845][211]LogWorld: Bringing up level for play took: 0.001131
+[2025.01.24-14.54.04:847][211]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2025.01.24-14.54.04:853][211]PIE: Server logged in
+[2025.01.24-14.54.04:854][211]PIE: Play in editor total start time 0.179 seconds.
+[2025.01.24-14.54.05:845][316]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 600.0
+[2025.01.24-14.54.05:937][327]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 600.0
+[2025.01.24-14.54.05:985][333]LogBlueprintUserMessages: [BP_BUBBLE_C_0] BUBBLESTOP
+[2025.01.24-14.54.05:985][333]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 0.0
+[2025.01.24-14.54.06:364][377]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.2
+[2025.01.24-14.54.07:737][539]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 660.0
+[2025.01.24-14.54.07:829][550]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 660.0
+[2025.01.24-14.54.07:887][557]LogBlueprintUserMessages: [BP_BUBBLE_C_1] BUBBLESTOP
+[2025.01.24-14.54.07:887][557]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 0.0
+[2025.01.24-14.54.08:257][601]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.54.09:476][744]LogBlueprintUserMessages: [BP_BUBBLE_C_2] 710.0
+[2025.01.24-14.54.09:493][746]LogBlueprintUserMessages: [BP_BUBBLE_C_2] BUBBLESTOP
+[2025.01.24-14.54.09:493][746]LogBlueprintUserMessages: [BP_BUBBLE_C_2] 0.0
+[2025.01.24-14.54.09:568][755]LogBlueprintUserMessages: [BP_BUBBLE_C_2] 0.0
+[2025.01.24-14.54.09:810][783]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.10:611][877]LogBlueprintUserMessages: [BP_BUBBLE_C_3] 750.0
+[2025.01.24-14.54.10:643][881]LogBlueprintUserMessages: [BP_BUBBLE_C_3] BUBBLESTOP
+[2025.01.24-14.54.10:643][881]LogBlueprintUserMessages: [BP_BUBBLE_C_3] 0.0
+[2025.01.24-14.54.10:702][888]LogBlueprintUserMessages: [BP_BUBBLE_C_3] 0.0
+[2025.01.24-14.54.10:965][919]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.12:657][116]LogBlueprintUserMessages: [BP_BUBBLE_C_4] 790.0
+[2025.01.24-14.54.12:749][127]LogBlueprintUserMessages: [BP_BUBBLE_C_4] 790.0
+[2025.01.24-14.54.12:798][133]LogBlueprintUserMessages: [BP_BUBBLE_C_4] BUBBLESTOP
+[2025.01.24-14.54.12:798][133]LogBlueprintUserMessages: [BP_BUBBLE_C_4] 0.0
+[2025.01.24-14.54.13:132][173]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.25
+[2025.01.24-14.54.13:947][267]LogBlueprintUserMessages: [BP_BUBBLE_C_5] 860.0
+[2025.01.24-14.54.13:990][271]LogBlueprintUserMessages: [BP_BUBBLE_C_5] BUBBLESTOP
+[2025.01.24-14.54.13:990][271]LogBlueprintUserMessages: [BP_BUBBLE_C_5] 0.0
+[2025.01.24-14.54.14:046][277]LogBlueprintUserMessages: [BP_BUBBLE_C_5] 0.0
+[2025.01.24-14.54.14:279][305]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.54.14:925][381]LogBlueprintUserMessages: [BP_BUBBLE_C_6] 910.0
+[2025.01.24-14.54.14:981][387]LogBlueprintUserMessages: [BP_BUBBLE_C_6] BUBBLESTOP
+[2025.01.24-14.54.14:981][387]LogBlueprintUserMessages: [BP_BUBBLE_C_6] 0.0
+[2025.01.24-14.54.15:023][392]LogBlueprintUserMessages: [BP_BUBBLE_C_6] 0.0
+[2025.01.24-14.54.15:275][422]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.15:924][498]LogBlueprintUserMessages: [BP_BUBBLE_C_7] 950.0
+[2025.01.24-14.54.16:016][509]LogBlueprintUserMessages: [BP_BUBBLE_C_7] 950.0
+[2025.01.24-14.54.16:040][512]LogBlueprintUserMessages: [BP_BUBBLE_C_7] BUBBLESTOP
+[2025.01.24-14.54.16:040][512]LogBlueprintUserMessages: [BP_BUBBLE_C_7] 0.0
+[2025.01.24-14.54.16:344][547]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.54.16:866][609]LogBlueprintUserMessages: [BP_BUBBLE_C_8] 1000.0
+[2025.01.24-14.54.16:882][611]LogBlueprintUserMessages: [BP_BUBBLE_C_8] BUBBLESTOP
+[2025.01.24-14.54.16:882][611]LogBlueprintUserMessages: [BP_BUBBLE_C_8] 0.0
+[2025.01.24-14.54.16:957][620]LogBlueprintUserMessages: [BP_BUBBLE_C_8] 0.0
+[2025.01.24-14.54.17:157][644]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.17:741][714]LogBlueprintUserMessages: [BP_BUBBLE_C_9] 1040.0
+[2025.01.24-14.54.17:741][714]LogBlueprintUserMessages: [BP_BUBBLE_C_9] BUBBLESTOP
+[2025.01.24-14.54.17:741][714]LogBlueprintUserMessages: [BP_BUBBLE_C_9] 0.0
+[2025.01.24-14.54.17:832][725]LogBlueprintUserMessages: [BP_BUBBLE_C_9] 0.0
+[2025.01.24-14.54.18:466][797]LogBlueprintUserMessages: [BP_BUBBLE_C_10] 1090.0
+[2025.01.24-14.54.18:467][797]LogBlueprintUserMessages: [BP_BUBBLE_C_10] BUBBLESTOP
+[2025.01.24-14.54.18:467][797]LogBlueprintUserMessages: [BP_BUBBLE_C_10] 0.0
+[2025.01.24-14.54.18:557][808]LogBlueprintUserMessages: [BP_BUBBLE_C_10] 0.0
+[2025.01.24-14.54.19:198][883]LogBlueprintUserMessages: [BP_BUBBLE_C_11] 1140.0
+[2025.01.24-14.54.19:211][884]LogBlueprintUserMessages: [BP_BUBBLE_C_11] BUBBLESTOP
+[2025.01.24-14.54.19:211][884]LogBlueprintUserMessages: [BP_BUBBLE_C_11] 0.0
+[2025.01.24-14.54.19:292][894]LogBlueprintUserMessages: [BP_BUBBLE_C_11] 0.0
+[2025.01.24-14.54.19:503][918]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.20:183][998]LogBlueprintUserMessages: [BP_BUBBLE_C_12] 1180.0
+[2025.01.24-14.54.20:270][  8]LogBlueprintUserMessages: [BP_BUBBLE_C_12] BUBBLESTOP
+[2025.01.24-14.54.20:270][  8]LogBlueprintUserMessages: [BP_BUBBLE_C_12] 0.0
+[2025.01.24-14.54.20:278][  9]LogBlueprintUserMessages: [BP_BUBBLE_C_12] 0.0
+[2025.01.24-14.54.20:543][ 40]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.54.21:622][168]LogBlueprintUserMessages: [BP_BUBBLE_C_13] 1200.0
+[2025.01.24-14.54.21:623][168]LogBlueprintUserMessages: [BP_BUBBLE_C_13] BUBBLESTOP
+[2025.01.24-14.54.21:623][168]LogBlueprintUserMessages: [BP_BUBBLE_C_13] 0.0
+[2025.01.24-14.54.21:715][179]LogBlueprintUserMessages: [BP_BUBBLE_C_13] 0.0
+[2025.01.24-14.54.22:526][273]LogBlueprintUserMessages: [BP_BUBBLE_C_14] 1200.0
+[2025.01.24-14.54.22:527][273]LogBlueprintUserMessages: [BP_BUBBLE_C_14] BUBBLESTOP
+[2025.01.24-14.54.22:527][273]LogBlueprintUserMessages: [BP_BUBBLE_C_14] 0.0
+[2025.01.24-14.54.22:623][284]LogBlueprintUserMessages: [BP_BUBBLE_C_14] 0.0
+[2025.01.24-14.54.23:264][358]LogBlueprintUserMessages: [BP_BUBBLE_C_15] 1200.0
+[2025.01.24-14.54.23:265][358]LogBlueprintUserMessages: [BP_BUBBLE_C_15] BUBBLESTOP
+[2025.01.24-14.54.23:265][358]LogBlueprintUserMessages: [BP_BUBBLE_C_15] 0.0
+[2025.01.24-14.54.23:356][369]LogBlueprintUserMessages: [BP_BUBBLE_C_15] 0.0
+[2025.01.24-14.54.24:358][486]LogBlueprintUserMessages: [BP_BUBBLE_C_16] 1200.0
+[2025.01.24-14.54.24:375][488]LogBlueprintUserMessages: [BP_BUBBLE_C_16] BUBBLESTOP
+[2025.01.24-14.54.24:375][488]LogBlueprintUserMessages: [BP_BUBBLE_C_16] 0.0
+[2025.01.24-14.54.24:451][497]LogBlueprintUserMessages: [BP_BUBBLE_C_16] 0.0
+[2025.01.24-14.54.25:516][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.54.25:516][624]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.54.26:384][728]LogBlueprintUserMessages: [BP_BUBBLE_C_17] 1200.0
+[2025.01.24-14.54.26:424][733]LogBlueprintUserMessages: [BP_BUBBLE_C_17] BUBBLESTOP
+[2025.01.24-14.54.26:424][733]LogBlueprintUserMessages: [BP_BUBBLE_C_17] 0.0
+[2025.01.24-14.54.26:475][739]LogBlueprintUserMessages: [BP_BUBBLE_C_17] 0.0
+[2025.01.24-14.54.26:675][763]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.2
+[2025.01.24-14.54.27:578][870]LogBlueprintUserMessages: [BP_BUBBLE_C_18] 1200.0
+[2025.01.24-14.54.27:621][874]LogBlueprintUserMessages: [BP_BUBBLE_C_18] BUBBLESTOP
+[2025.01.24-14.54.27:621][874]LogBlueprintUserMessages: [BP_BUBBLE_C_18] 0.0
+[2025.01.24-14.54.27:671][880]LogBlueprintUserMessages: [BP_BUBBLE_C_18] 0.0
+[2025.01.24-14.54.27:880][905]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.54.28:623][994]LogBlueprintUserMessages: [BP_BUBBLE_C_19] 1200.0
+[2025.01.24-14.54.28:664][999]LogBlueprintUserMessages: [BP_BUBBLE_C_19] BUBBLESTOP
+[2025.01.24-14.54.28:664][999]LogBlueprintUserMessages: [BP_BUBBLE_C_19] 0.0
+[2025.01.24-14.54.28:718][  4]LogBlueprintUserMessages: [BP_BUBBLE_C_19] 0.0
+[2025.01.24-14.54.28:943][ 30]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.29:484][ 95]LogBlueprintUserMessages: [BP_BUBBLE_C_20] 1200.0
+[2025.01.24-14.54.29:576][106]LogBlueprintUserMessages: [BP_BUBBLE_C_20] 1200.0
+[2025.01.24-14.54.30:122][169]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.30:790][248]LogBlueprintUserMessages: [BP_BUBBLE_C_21] 1200.0
+[2025.01.24-14.54.30:822][252]LogBlueprintUserMessages: [BP_BUBBLE_C_21] BUBBLESTOP
+[2025.01.24-14.54.30:823][252]LogBlueprintUserMessages: [BP_BUBBLE_C_21] 0.0
+[2025.01.24-14.54.30:881][259]LogBlueprintUserMessages: [BP_BUBBLE_C_21] 0.0
+[2025.01.24-14.54.31:081][283]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.54.31:980][387]LogBlueprintUserMessages: [BP_BUBBLE_C_22] 1200.0
+[2025.01.24-14.54.31:988][388]LogBlueprintUserMessages: [BP_BUBBLE_C_22] BUBBLESTOP
+[2025.01.24-14.54.31:988][388]LogBlueprintUserMessages: [BP_BUBBLE_C_22] 0.0
+[2025.01.24-14.54.32:072][398]LogBlueprintUserMessages: [BP_BUBBLE_C_22] 0.0
+[2025.01.24-14.54.33:094][515]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.54.33:095][515]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.54.34:357][664]LogBlueprintUserMessages: [BP_BUBBLE_C_23] 1200.0
+[2025.01.24-14.54.34:358][664]LogBlueprintUserMessages: [BP_BUBBLE_C_23] BUBBLESTOP
+[2025.01.24-14.54.34:358][664]LogBlueprintUserMessages: [BP_BUBBLE_C_23] 0.0
+[2025.01.24-14.54.34:448][675]LogBlueprintUserMessages: [BP_BUBBLE_C_23] 0.0
+[2025.01.24-14.54.36:005][860]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.36:666][935]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.54.36:666][935]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.54.37:836][ 73]LogBlueprintUserMessages: [BP_BUBBLE_C_24] 1100.0
+[2025.01.24-14.54.37:900][ 79]LogBlueprintUserMessages: [BP_BUBBLE_C_24] BUBBLESTOP
+[2025.01.24-14.54.37:900][ 79]LogBlueprintUserMessages: [BP_BUBBLE_C_24] 0.0
+[2025.01.24-14.54.37:917][ 81]LogBlueprintUserMessages: [BP_BUBBLE_C_24] 0.0
+[2025.01.24-14.54.38:192][114]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.38:828][189]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.54.38:829][189]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.54.40:415][375]LogBlueprintUserMessages: [BP_BUBBLE_C_25] 1040.0
+[2025.01.24-14.54.40:415][375]LogBlueprintUserMessages: [BP_BUBBLE_C_25] BUBBLESTOP
+[2025.01.24-14.54.40:416][375]LogBlueprintUserMessages: [BP_BUBBLE_C_25] 0.0
+[2025.01.24-14.54.40:507][385]LogBlueprintUserMessages: [BP_BUBBLE_C_25] 0.0
+[2025.01.24-14.54.41:555][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.54.41:555][510]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.54.42:462][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.54.42:462][616]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.54.43:101][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.54.43:101][682]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.54.43:626][743]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.54.43:626][743]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.54.43:943][781]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.54.44:945][900]LogBlueprintUserMessages: [BP_BUBBLE_C_26] 1030.0
+[2025.01.24-14.54.44:946][900]LogBlueprintUserMessages: [BP_BUBBLE_C_26] BUBBLESTOP
+[2025.01.24-14.54.44:946][900]LogBlueprintUserMessages: [BP_BUBBLE_C_26] 0.0
+[2025.01.24-14.54.45:036][911]LogBlueprintUserMessages: [BP_BUBBLE_C_26] 0.0
+[2025.01.24-14.54.45:687][989]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.46:133][ 41]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.47:087][154]LogBlueprintUserMessages: [BP_BUBBLE_C_27] 1150.0
+[2025.01.24-14.54.47:170][164]LogBlueprintUserMessages: [BP_BUBBLE_C_27] BUBBLESTOP
+[2025.01.24-14.54.47:170][164]LogBlueprintUserMessages: [BP_BUBBLE_C_27] 0.0
+[2025.01.24-14.54.47:180][165]LogBlueprintUserMessages: [BP_BUBBLE_C_27] 0.0
+[2025.01.24-14.54.47:500][203]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.54.48:740][350]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.54.48:740][350]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.54.53:016][847]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.53:789][938]LogBlueprintUserMessages: [BP_BUBBLE_C_28] 940.0
+[2025.01.24-14.54.53:813][941]LogBlueprintUserMessages: [BP_BUBBLE_C_28] BUBBLESTOP
+[2025.01.24-14.54.53:813][941]LogBlueprintUserMessages: [BP_BUBBLE_C_28] 0.0
+[2025.01.24-14.54.53:881][949]LogBlueprintUserMessages: [BP_BUBBLE_C_28] 0.0
+[2025.01.24-14.54.55:203][105]LogBlueprintUserMessages: [BP_BUBBLE_C_29] 1000.0
+[2025.01.24-14.54.55:203][105]LogBlueprintUserMessages: [BP_BUBBLE_C_29] BUBBLESTOP
+[2025.01.24-14.54.55:203][105]LogBlueprintUserMessages: [BP_BUBBLE_C_29] 0.0
+[2025.01.24-14.54.55:295][116]LogBlueprintUserMessages: [BP_BUBBLE_C_29] 0.0
+[2025.01.24-14.54.56:044][204]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.54.56:044][204]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.54.58:676][514]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.54.59:500][609]LogBlueprintUserMessages: [BP_BUBBLE_C_30] 980.0
+[2025.01.24-14.54.59:516][611]LogBlueprintUserMessages: [BP_BUBBLE_C_30] BUBBLESTOP
+[2025.01.24-14.54.59:516][611]LogBlueprintUserMessages: [BP_BUBBLE_C_30] 0.0
+[2025.01.24-14.54.59:593][620]LogBlueprintUserMessages: [BP_BUBBLE_C_30] 0.0
+[2025.01.24-14.54.59:791][644]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.55.00:632][742]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.55.01:701][867]LogBlueprintUserMessages: [BP_BUBBLE_C_31] 1070.0
+[2025.01.24-14.55.01:734][871]LogBlueprintUserMessages: [BP_BUBBLE_C_31] BUBBLESTOP
+[2025.01.24-14.55.01:734][871]LogBlueprintUserMessages: [BP_BUBBLE_C_31] 0.0
+[2025.01.24-14.55.01:794][878]LogBlueprintUserMessages: [BP_BUBBLE_C_31] 0.0
+[2025.01.24-14.55.02:005][903]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.55.02:683][982]LogBlueprintUserMessages: [BP_BUBBLE_C_32] 1110.0
+[2025.01.24-14.55.02:684][982]LogBlueprintUserMessages: [BP_BUBBLE_C_32] BUBBLESTOP
+[2025.01.24-14.55.02:684][982]LogBlueprintUserMessages: [BP_BUBBLE_C_32] 0.0
+[2025.01.24-14.55.02:776][993]LogBlueprintUserMessages: [BP_BUBBLE_C_32] 0.0
+[2025.01.24-14.55.03:634][ 92]LogBlueprintUserMessages: [BP_BUBBLE_C_33] 1150.0
+[2025.01.24-14.55.03:726][103]LogBlueprintUserMessages: [BP_BUBBLE_C_33] 1150.0
+[2025.01.24-14.55.05:562][319]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.55.05:562][319]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.55.06:222][394]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.55.06:222][394]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.55.06:865][470]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.55.06:865][470]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.55.07:897][593]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.55.07:897][593]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.55.08:589][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.55.08:590][673]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.55.10:537][902]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.2
+[2025.01.24-14.55.11:387][  4]LogBlueprintUserMessages: [BP_BUBBLE_C_34] 1070.0
+[2025.01.24-14.55.11:436][ 10]LogBlueprintUserMessages: [BP_BUBBLE_C_34] BUBBLESTOP
+[2025.01.24-14.55.11:436][ 10]LogBlueprintUserMessages: [BP_BUBBLE_C_34] 0.0
+[2025.01.24-14.55.11:480][ 15]LogBlueprintUserMessages: [BP_BUBBLE_C_34] 0.0
+[2025.01.24-14.55.13:000][195]LogBlueprintUserMessages: [BP_BUBBLE_C_35] 1070.0
+[2025.01.24-14.55.13:001][195]LogBlueprintUserMessages: [BP_BUBBLE_C_35] BUBBLESTOP
+[2025.01.24-14.55.13:001][195]LogBlueprintUserMessages: [BP_BUBBLE_C_35] 0.0
+[2025.01.24-14.55.13:091][206]LogBlueprintUserMessages: [BP_BUBBLE_C_35] 0.0
+[2025.01.24-14.55.13:767][284]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.55.14:827][408]LogBlueprintUserMessages: [BP_BUBBLE_C_36] 1160.0
+[2025.01.24-14.55.14:828][408]LogBlueprintUserMessages: [BP_BUBBLE_C_36] BUBBLESTOP
+[2025.01.24-14.55.14:828][408]LogBlueprintUserMessages: [BP_BUBBLE_C_36] 0.0
+[2025.01.24-14.55.14:918][419]LogBlueprintUserMessages: [BP_BUBBLE_C_36] 0.0
+[2025.01.24-14.55.16:417][590]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.55.16:417][590]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.55.20:095][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.55.20:095][ 22]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.55.20:695][ 94]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.55.20:695][ 94]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.55.21:380][175]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.55.21:380][175]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.55.24:151][500]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.55.24:151][500]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.55.26:203][744]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.55.27:914][944]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Anchor". Node:  Destroy Actor Graph:  EventGraph Function:  Execute Ubergraph WBP Bubble UI Blueprint:  WBP_BubbleUI
+[2025.01.24-14.55.27:914][944]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] POPPED!
+[2025.01.24-14.55.28:734][ 41]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.55.29:384][119]LogBlueprintUserMessages: [BP_BUBBLE_C_37] 880.0
+[2025.01.24-14.55.29:410][122]LogBlueprintUserMessages: [BP_BUBBLE_C_37] BUBBLESTOP
+[2025.01.24-14.55.29:410][122]LogBlueprintUserMessages: [BP_BUBBLE_C_37] 0.0
+[2025.01.24-14.55.29:477][130]LogBlueprintUserMessages: [BP_BUBBLE_C_37] 0.0
+[2025.01.24-14.55.29:736][158]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.55.31:618][377]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.55.32:394][469]LogBlueprintUserMessages: [BP_BUBBLE_C_38] 980.0
+[2025.01.24-14.55.32:426][473]LogBlueprintUserMessages: [BP_BUBBLE_C_38] BUBBLESTOP
+[2025.01.24-14.55.32:427][473]LogBlueprintUserMessages: [BP_BUBBLE_C_38] 0.0
+[2025.01.24-14.55.32:487][480]LogBlueprintUserMessages: [BP_BUBBLE_C_38] 0.0
+[2025.01.24-14.55.33:922][652]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.55.35:285][812]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.15
+[2025.01.24-14.55.36:482][953]LogBlueprintUserMessages: [BP_BUBBLE_C_39] 1020.0
+[2025.01.24-14.55.36:482][953]LogBlueprintUserMessages: [BP_BUBBLE_C_39] BUBBLESTOP
+[2025.01.24-14.55.36:482][953]LogBlueprintUserMessages: [BP_BUBBLE_C_39] 0.0
+[2025.01.24-14.55.36:573][964]LogBlueprintUserMessages: [BP_BUBBLE_C_39] 0.0
+[2025.01.24-14.55.38:718][212]LogBlueprintUserMessages: [BP_BUBBLE_C_40] 1070.0
+[2025.01.24-14.55.38:734][214]LogBlueprintUserMessages: [BP_BUBBLE_C_40] BUBBLESTOP
+[2025.01.24-14.55.38:734][214]LogBlueprintUserMessages: [BP_BUBBLE_C_40] 0.0
+[2025.01.24-14.55.38:810][223]LogBlueprintUserMessages: [BP_BUBBLE_C_40] 0.0
+[2025.01.24-14.55.40:293][397]LogBlueprintUserMessages: [BP_BUBBLE_C_41] 1150.0
+[2025.01.24-14.55.40:294][397]LogBlueprintUserMessages: [BP_BUBBLE_C_41] BUBBLESTOP
+[2025.01.24-14.55.40:294][397]LogBlueprintUserMessages: [BP_BUBBLE_C_41] 0.0
+[2025.01.24-14.55.40:385][408]LogBlueprintUserMessages: [BP_BUBBLE_C_41] 0.0
+[2025.01.24-14.55.43:135][728]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.55.44:038][835]LogBlueprintUserMessages: [BP_BUBBLE_C_42] 1030.0
+[2025.01.24-14.55.44:039][835]LogBlueprintUserMessages: [BP_BUBBLE_C_42] BUBBLESTOP
+[2025.01.24-14.55.44:039][835]LogBlueprintUserMessages: [BP_BUBBLE_C_42] 0.0
+[2025.01.24-14.55.44:130][846]LogBlueprintUserMessages: [BP_BUBBLE_C_42] 0.0
+[2025.01.24-14.55.45:049][949]LogBlueprintUserMessages: [BP_BUBBLE_C_43] 1030.0
+[2025.01.24-14.55.45:081][953]LogBlueprintUserMessages: [BP_BUBBLE_C_43] BUBBLESTOP
+[2025.01.24-14.55.45:081][953]LogBlueprintUserMessages: [BP_BUBBLE_C_43] 0.0
+[2025.01.24-14.55.45:140][960]LogBlueprintUserMessages: [BP_BUBBLE_C_43] 0.0
+[2025.01.24-14.55.45:360][985]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.1
+[2025.01.24-14.55.50:836][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-14.55.50:836][619]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.01.24-14.55.50:837][619]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-14.55.50:837][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-14.55.50:837][619]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.01.24-14.55.50:843][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-14.55.50:848][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-14.55.50:885][619]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.01.24-14.55.50:886][619]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.01.24-14.55.50:886][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.01.24-14.55.50:888][619]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2025.01.24-14.55.50:893][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-14.55.50:896][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.01.24-14.55.51:035][620]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2025.01.24-14.55.53:430][824]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-14.55.53:435][824]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.24-14.55.53:436][824]LogWorldPartition: Display: GenerateStreaming started...
+[2025.01.24-14.55.53:436][824]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.01.24-14.55.53:436][824]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 1 ms)
+[2025.01.24-14.55.53:436][824]LogWorldPartition: Display: GenerateStreaming took 104 us (total: 4 ms)
+[2025.01.24-14.55.53:436][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-14.55.53:436][824]PIE: New page: PIE session: TopDownMap (24 Jan 2025, 14:55:53)
+[2025.01.24-14.55.53:437][824]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.01.24-14.55.53:440][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003617s)
+[2025.01.24-14.55.53:440][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003646s)
+[2025.01.24-14.55.53:440][824]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.24-14.55.53:440][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.24-14.55.53:441][824]LogAIModule: Creating AISystem for world TopDownMap
+[2025.01.24-14.55.53:441][824]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.24-14.55.53:441][824]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.24-14.55.53:441][824]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.01.24-14.55.53:442][824]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2025.01.24-14.55.53:442][824]LogWorldPartition: Display: WorldPartition initialize took 960 us (total: 811 ms)
+[2025.01.24-14.55.53:442][824]LogPlayLevel: PIE: World Init took: (0.001928s)
+[2025.01.24-14.55.53:466][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.01.24-14.55.53:468][824]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.01.24-14.55.53:468][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-14.55.53:468][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-14.55.53:468][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-14.55.53:468][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-14.55.53:468][824]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-14.55.53:468][824]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.01.24-14.55.53:468][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-14.55.53:468][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-14.55.53:469][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-14.55.53:469][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-14.55.53:469][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-14.55.53:471][824]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-14.55.53:599][824]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)
+[2025.01.24-14.55.53:599][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-14.55.53:599][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-14.55.53:599][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-14.55.53:600][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.01.24-14.55.53:600][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=24
+[2025.01.24-14.55.53:606][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.01.24-14.55.53:606][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.01.24-14.55.53:606][824]LogInit: FAudioDevice initialized with ID 24.
+[2025.01.24-14.55.53:606][824]LogAudio: Display: Audio Device (ID: 24) registered with world 'TopDownMap'.
+[2025.01.24-14.55.53:606][824]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.01.24-14.55.53:612][824]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.01.24-14.55.53:613][824]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.01.24-14.55.53
+[2025.01.24-14.55.53:613][824]LogWorld: Bringing up level for play took: 0.001141
+[2025.01.24-14.55.53:615][824]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.01.24-14.55.53:621][824]PIE: Server logged in
+[2025.01.24-14.55.53:622][824]PIE: Play in editor total start time 0.187 seconds.
+[2025.01.24-14.56.04:534][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-14.56.04:535][891]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.01.24-14.56.04:535][891]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-14.56.04:535][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-14.56.04:535][891]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.01.24-14.56.04:540][891]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-14.56.04:545][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-14.56.04:574][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-14.56.04:574][891]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.01.24-14.56.04:574][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.01.24-14.56.04:576][891]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2025.01.24-14.56.04:584][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.01.24-14.56.04:619][892]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.01.24-14.56.10:858][512]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-14.56.10:864][512]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.24-14.56.10:864][512]LogWorldPartition: Display: GenerateStreaming started...
+[2025.01.24-14.56.10:864][512]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.01.24-14.56.10:864][512]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 1 ms)
+[2025.01.24-14.56.10:864][512]LogWorldPartition: Display: GenerateStreaming took 96 us (total: 4 ms)
+[2025.01.24-14.56.10:865][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-14.56.10:865][512]PIE: New page: PIE session: TopDownMap (24 Jan 2025, 14:56:10)
+[2025.01.24-14.56.10:865][512]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.01.24-14.56.10:868][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003490s)
+[2025.01.24-14.56.10:868][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003518s)
+[2025.01.24-14.56.10:868][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.24-14.56.10:868][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.24-14.56.10:869][512]LogAIModule: Creating AISystem for world TopDownMap
+[2025.01.24-14.56.10:869][512]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.24-14.56.10:869][512]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.24-14.56.10:869][512]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.01.24-14.56.10:870][512]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2025.01.24-14.56.10:870][512]LogWorldPartition: Display: WorldPartition initialize took 802 us (total: 812 ms)
+[2025.01.24-14.56.10:870][512]LogPlayLevel: PIE: World Init took: (0.001706s)
+[2025.01.24-14.56.10:893][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.24-14.56.10:895][512]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.01.24-14.56.10:895][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-14.56.10:895][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-14.56.10:895][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-14.56.10:895][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-14.56.10:895][512]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-14.56.10:895][512]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.01.24-14.56.10:895][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-14.56.10:895][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-14.56.10:896][512]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-14.56.10:896][512]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-14.56.10:896][512]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-14.56.10:897][512]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-14.56.11:024][512]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)
+[2025.01.24-14.56.11:024][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-14.56.11:024][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-14.56.11:024][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-14.56.11:025][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.01.24-14.56.11:025][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=25
+[2025.01.24-14.56.11:028][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.01.24-14.56.11:028][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.01.24-14.56.11:028][512]LogInit: FAudioDevice initialized with ID 25.
+[2025.01.24-14.56.11:028][512]LogAudio: Display: Audio Device (ID: 25) registered with world 'TopDownMap'.
+[2025.01.24-14.56.11:028][512]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.01.24-14.56.11:032][512]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.01.24-14.56.11:033][512]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.01.24-14.56.11
+[2025.01.24-14.56.11:033][512]LogWorld: Bringing up level for play took: 0.001098
+[2025.01.24-14.56.11:042][512]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.01.24-14.56.11:048][512]PIE: Server logged in
+[2025.01.24-14.56.11:048][512]PIE: Play in editor total start time 0.185 seconds.
+[2025.01.24-14.56.14:103][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-14.56.14:103][798]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.01.24-14.56.14:104][798]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-14.56.14:104][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-14.56.14:104][798]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.01.24-14.56.14:112][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-14.56.14:117][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-14.56.14:143][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-14.56.14:144][798]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.01.24-14.56.14:144][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.01.24-14.56.14:145][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2025.01.24-14.56.14:153][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2025.01.24-14.56.14:187][799]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.01.24-14.56.17:132][131]Cmd: TRANSACTION UNDO
+[2025.01.24-14.56.17:132][131]LogEditorTransaction: Undo Move Elements
+[2025.01.24-14.56.20:948][409]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.01.24-14.56.20:953][409]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.01.24-14.56.20:954][409]LogWorldPartition: Display: GenerateStreaming started...
+[2025.01.24-14.56.20:954][409]LogWorldPartition: Display: GetPartitionedActors started...
+[2025.01.24-14.56.20:954][409]LogWorldPartition: Display: GetPartitionedActors took 5 us (total: 1 ms)
+[2025.01.24-14.56.20:954][409]LogWorldPartition: Display: GenerateStreaming took 102 us (total: 4 ms)
+[2025.01.24-14.56.20:954][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.01.24-14.56.20:954][409]PIE: New page: PIE session: TopDownMap (24 Jan 2025, 14:56:20)
+[2025.01.24-14.56.20:954][409]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.01.24-14.56.20:958][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003542s)
+[2025.01.24-14.56.20:958][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.003573s)
+[2025.01.24-14.56.20:958][409]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.01.24-14.56.20:958][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.01.24-14.56.20:958][409]LogAIModule: Creating AISystem for world TopDownMap
+[2025.01.24-14.56.20:959][409]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.01.24-14.56.20:959][409]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.01.24-14.56.20:959][409]LogWorldPartition: UWorldPartition::Initialize(Asset=TopDownMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2025.01.24-14.56.20:960][409]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2025.01.24-14.56.20:960][409]LogWorldPartition: Display: WorldPartition initialize took 828 us (total: 812 ms)
+[2025.01.24-14.56.20:960][409]LogPlayLevel: PIE: World Init took: (0.001809s)
+[2025.01.24-14.56.20:985][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.01.24-14.56.20:987][409]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2025.01.24-14.56.20:987][409]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.01.24-14.56.20:987][409]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.01.24-14.56.20:987][409]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.01.24-14.56.20:987][409]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.01.24-14.56.20:987][409]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.01.24-14.56.20:987][409]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.01.24-14.56.20:987][409]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.01.24-14.56.20:987][409]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.01.24-14.56.20:988][409]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.01.24-14.56.20:988][409]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.01.24-14.56.20:988][409]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.01.24-14.56.20:990][409]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.01.24-14.56.21:127][409]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (CORSAIR VOID PRO Wireless Gaming Headset)
+[2025.01.24-14.56.21:127][409]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.01.24-14.56.21:127][409]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.01.24-14.56.21:127][409]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.01.24-14.56.21:128][409]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2025.01.24-14.56.21:128][409]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=26
+[2025.01.24-14.56.21:130][409]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2025.01.24-14.56.21:130][409]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2025.01.24-14.56.21:130][409]LogInit: FAudioDevice initialized with ID 26.
+[2025.01.24-14.56.21:130][409]LogAudio: Display: Audio Device (ID: 26) registered with world 'TopDownMap'.
+[2025.01.24-14.56.21:130][409]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2025.01.24-14.56.21:134][409]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2025.01.24-14.56.21:135][409]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2025.01.24-14.56.21
+[2025.01.24-14.56.21:135][409]LogWorld: Bringing up level for play took: 0.001099
+[2025.01.24-14.56.21:141][409]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.01.24-14.56.21:147][409]PIE: Server logged in
+[2025.01.24-14.56.21:148][409]PIE: Play in editor total start time 0.195 seconds.
+[2025.01.24-14.56.39:666][575]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 400.0
+[2025.01.24-14.56.39:765][587]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 400.0
+[2025.01.24-14.56.41:727][818]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 400.0
+[2025.01.24-14.56.41:727][818]LogBlueprintUserMessages: [BP_BUBBLE_C_1] BUBBLESTOP
+[2025.01.24-14.56.41:727][818]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 0.0
+[2025.01.24-14.56.41:818][829]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 0.0
+[2025.01.24-14.56.42:118][865]LogBlueprintUserMessages: [WBP_BubbleUI_C_0] 0.2
+[2025.01.24-14.57.00:432][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-14.57.00:432][ 24]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2025.01.24-14.57.00:432][ 24]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2025.01.24-14.57.00:433][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-14.57.00:433][ 24]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2025.01.24-14.57.00:441][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.01.24-14.57.00:447][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.01.24-14.57.00:484][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.01.24-14.57.00:485][ 24]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2025.01.24-14.57.00:485][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.01.24-14.57.00:487][ 24]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2025.01.24-14.57.00:495][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.24-14.57.00:529][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.01.24-14.57.15:610][309]BlueprintLog: New page: Compile WBP_BubbleUI
+[2025.01.24-14.57.15:662][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.01.24-14.57.15:664][309]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.57.15:664][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.57.15:664][309]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.24-14.57.15:664][309]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.57.15:664][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.57.15:664][309]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.57.15:664][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.57.15:664][309]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.57.15:664][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.57.15:665][309]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 200.0
+[2025.01.24-14.57.15:744][309]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.57.15:744][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.57.15:744][309]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.24-14.57.15:744][309]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.57.15:744][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.57.15:744][309]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.57.15:744][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.57.15:744][309]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2025.01.24-14.57.15:744][309]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_8:PersistentLevel.BP_BUBBLE_C_0.Sphere' 
+[2025.01.24-14.57.15:745][309]LogBlueprintUserMessages: [BP_BUBBLE_C_1] 200.0
+[2025.01.24-14.57.16:094][321]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.24-14.57.16:157][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/WBP_BubbleUI" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset" SILENT=true
+[2025.01.24-14.57.16:185][321]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/WBP_BubbleUI
+[2025.01.24-14.57.16:185][321]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/WBP_BubbleUIA863D8AE48C514DE950BB6A3C1C01F79.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset'
+[2025.01.24-14.57.16:194][321]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 2.39 sec)
+[2025.01.24-14.57.16:200][321]AssetCheck: New page: Asset Save: WBP_BubbleUI
+[2025.01.24-14.57.16:200][321]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BUBBLE_JAM/WBP_BubbleUI.WBP_BubbleUI

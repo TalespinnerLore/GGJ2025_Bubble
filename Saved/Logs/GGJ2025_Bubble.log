@@ -7836,6 +7836,7 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.01.25-14.19.38:718][742]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 469 ms)
 [2025.01.25-14.19.38:724][742]AssetCheck: New page: Asset Save: BP_BUBBLE
 [2025.01.25-14.19.38:724][742]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BUBBLE_JAM/BP_BUBBLE.BP_BUBBLE
+<<<<<<< HEAD
 [2025.01.25-14.30.01:265][951]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
 [2025.01.25-14.30.01:266][951]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
 [2025.01.25-14.30.07:095][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
@@ -8474,3 +8475,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.01.25-14.30.15:159][650]LogD3D12RHI: ~FD3D12DynamicRHI
 [2025.01.25-14.30.15:239][650]LogExit: Exiting.
 [2025.01.25-14.30.15:274][650]Log file closed, 01/25/25 14:30:15
+=======
+>>>>>>> BaseMechanics

@@ -3805,3 +3805,101 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.01.26-00.34.42:376][ 76]AssetCheck: New page: Asset Save: BP_TopDownCharacter
 [2025.01.26-00.34.42:376][ 76]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BUBBLE_JAM/BP_TopDownCharacter.BP_TopDownCharacter
 [2025.01.26-00.34.49:301][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.01.26-00.38.56:673][436]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.26-00.39.34:857][ 33]LogSlate: Window 'Color Picker' being destroyed
+[2025.01.26-00.40.03:198][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.01.26-00.40.03:203][892]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.052
+[2025.01.26-00.40.03:204][892]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BUBBLE_JAM/WBP_BubbleUI] ([2] browsable assets)...
+[2025.01.26-00.40.03:211][892]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BUBBLE_JAM/WBP_BubbleUI.WBP_BubbleUI]
+[2025.01.26-00.40.03:211][892]OBJ SavePackage: Finished generating thumbnails for package [/Game/BUBBLE_JAM/WBP_BubbleUI]
+[2025.01.26-00.40.03:261][892]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BUBBLE_JAM/WBP_BubbleUI_Auto2
+[2025.01.26-00.40.03:261][892]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/WBP_BubbleUI_Auto279942C2D4F06090A9259618E1D5DBFEB.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/Autosaves/Game/BUBBLE_JAM/WBP_BubbleUI_Auto2.uasset'
+[2025.01.26-00.40.03:262][892]LogFileHelpers: Auto-saving content packages took 0.059
+[2025.01.26-00.40.17:703][137]BlueprintLog: New page: Compile WBP_BubbleUI
+[2025.01.26-00.40.17:947][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.01.26-00.40.17:957][137]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.26-00.40.17:958][137]LogBlueprintUserMessages: [BP_BUBBLE_C_5] 200.0
+[2025.01.26-00.40.17:999][137]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.26-00.40.18:000][137]LogBlueprintUserMessages: [BP_BUBBLE_C_5] 200.0
+[2025.01.26-00.40.18:325][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-00.40.18:390][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/WBP_BubbleUI" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset" SILENT=true
+[2025.01.26-00.40.18:437][148]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/WBP_BubbleUI
+[2025.01.26-00.40.18:438][148]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/WBP_BubbleUIC915DB28425B93542160179E8580E907.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset'
+[2025.01.26-00.40.18:449][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 4.61 sec)
+[2025.01.26-00.40.18:458][148]AssetCheck: New page: Asset Save: WBP_BubbleUI
+[2025.01.26-00.40.18:458][148]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BUBBLE_JAM/WBP_BubbleUI.WBP_BubbleUI
+[2025.01.26-00.41.42:580][678]BlueprintLog: New page: Compile WBP_BubbleUI
+[2025.01.26-00.41.42:687][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.01.26-00.41.42:695][678]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.26-00.41.42:696][678]LogBlueprintUserMessages: [BP_BUBBLE_C_5] 200.0
+[2025.01.26-00.41.42:822][678]LogBlueprintUserMessages: [BP_BUBBLE_C_0] 200.0
+[2025.01.26-00.41.42:823][678]LogBlueprintUserMessages: [BP_BUBBLE_C_5] 200.0
+[2025.01.26-00.41.43:404][700]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-00.41.43:475][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/WBP_BubbleUI" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset" SILENT=true
+[2025.01.26-00.41.43:523][700]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/WBP_BubbleUI
+[2025.01.26-00.41.43:524][700]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/WBP_BubbleUIA978757C43C5D8DD3344528B09247295.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/WBP_BubbleUI.uasset'
+[2025.01.26-00.41.43:534][700]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 4.74 sec)
+[2025.01.26-00.41.43:541][700]AssetCheck: New page: Asset Save: WBP_BubbleUI
+[2025.01.26-00.41.43:541][700]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BUBBLE_JAM/WBP_BubbleUI.WBP_BubbleUI
+[2025.01.26-00.42.15:588][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2025.01.26-00.44.00:883][389]BlueprintLog: New page: Compile BP_ENEMY
+[2025.01.26-00.44.00:954][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.01.26-00.44.01:393][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-00.44.01:468][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/BP_ENEMY" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_ENEMY.uasset" SILENT=true
+[2025.01.26-00.44.01:481][409]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/BP_ENEMY
+[2025.01.26-00.44.01:481][409]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/BP_ENEMY355A4ADE416FA44856F9788E224CA595.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_ENEMY.uasset'
+[2025.01.26-00.44.01:493][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 4.84 sec)
+[2025.01.26-00.44.01:503][409]AssetCheck: New page: Asset Save: BP_ENEMY
+[2025.01.26-00.44.01:503][409]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BUBBLE_JAM/BP_ENEMY.BP_ENEMY
+[2025.01.26-00.44.05:718][746]BlueprintLog: New page: Compile BP_ENEMY
+[2025.01.26-00.44.05:786][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2025.01.26-00.44.07:032][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-00.44.07:120][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/BP_ENEMY" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_ENEMY.uasset" SILENT=true
+[2025.01.26-00.44.07:133][755]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/BP_ENEMY
+[2025.01.26-00.44.07:133][755]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/BP_ENEMYFF70B59546337C43E2CD8EBC2F0C54D5.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_ENEMY.uasset'
+[2025.01.26-00.44.07:147][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 4.95 sec)
+[2025.01.26-00.44.07:154][755]AssetCheck: New page: Asset Save: BP_ENEMY
+[2025.01.26-00.44.07:154][755]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BUBBLE_JAM/BP_ENEMY.BP_ENEMY
+[2025.01.26-00.44.08:402][854]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-00.44.08:472][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/BP_ENEMY" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_ENEMY.uasset" SILENT=true
+[2025.01.26-00.44.08:485][854]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/BP_ENEMY
+[2025.01.26-00.44.08:485][854]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/BP_ENEMYE214572E4029168FEAA86EB921A289D1.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_ENEMY.uasset'
+[2025.01.26-00.44.08:495][854]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 5.05 sec)
+[2025.01.26-00.44.08:502][854]AssetCheck: New page: Asset Save: BP_ENEMY
+[2025.01.26-00.44.08:502][854]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BUBBLE_JAM/BP_ENEMY.BP_ENEMY
+[2025.01.26-00.44.12:949][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.26-00.44.12:955][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-00.44.13:038][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/BP_Pickup" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_Pickup.uasset" SILENT=true
+[2025.01.26-00.44.13:046][219]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/BP_Pickup
+[2025.01.26-00.44.13:046][219]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/BP_PickupA9E82EBA472C0D894B22709FF3B536A9.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_Pickup.uasset'
+[2025.01.26-00.44.13:057][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 5.15 sec)
+[2025.01.26-00.44.13:065][219]AssetCheck: New page: Asset Save: BP_Pickup
+[2025.01.26-00.44.13:065][219]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BUBBLE_JAM/BP_Pickup.BP_Pickup
+[2025.01.26-00.44.52:876][859]BlueprintLog: New page: Compile BP_Pickup
+[2025.01.26-00.44.52:902][859]LogBlueprint: Error: [AssetLog] C:\Users\Jan\Desktop\GGJ2025_Bubble\Content\BUBBLE_JAM\BP_Pickup.uasset: [Compiler] Message node  Charge Element Bar  must have a valid target or reference to self.
+[2025.01.26-00.44.52:955][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.01.26-00.44.53:404][885]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-00.44.53:486][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/BP_Pickup" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_Pickup.uasset" SILENT=true
+[2025.01.26-00.44.53:495][885]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/BP_Pickup
+[2025.01.26-00.44.53:496][885]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/BP_Pickup9891D1D148C7702F088BBE96838CF5A3.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_Pickup.uasset'
+[2025.01.26-00.44.53:507][885]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 5.25 sec)
+[2025.01.26-00.44.53:517][885]AssetCheck: New page: Asset Save: BP_Pickup
+[2025.01.26-00.44.53:517][885]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BUBBLE_JAM/BP_Pickup.BP_Pickup
+[2025.01.26-00.45.01:274][522]BlueprintLog: New page: Compile BP_Pickup
+[2025.01.26-00.45.01:331][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.01.26-00.45.02:020][568]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-00.45.02:105][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/BP_Pickup" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_Pickup.uasset" SILENT=true
+[2025.01.26-00.45.02:114][568]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/BP_Pickup
+[2025.01.26-00.45.02:115][568]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/BP_Pickup937D98D24024D2ADF6712EAF3D786FF0.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_Pickup.uasset'
+[2025.01.26-00.45.02:127][568]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 5.36 sec)
+[2025.01.26-00.45.02:134][568]AssetCheck: New page: Asset Save: BP_Pickup
+[2025.01.26-00.45.02:134][568]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BUBBLE_JAM/BP_Pickup.BP_Pickup
+[2025.01.26-00.45.07:981][ 81]BlueprintLog: New page: Compile BP_Pickup
+[2025.01.26-00.45.08:039][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.01.26-00.45.08:875][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.01.26-00.45.08:959][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BUBBLE_JAM/BP_Pickup" FILE="../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_Pickup.uasset" SILENT=true
+[2025.01.26-00.45.08:967][144]LogSavePackage: Moving output files for package: /Game/BUBBLE_JAM/BP_Pickup
+[2025.01.26-00.45.08:968][144]LogSavePackage: Moving '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Saved/BP_PickupB3544C374EC5C6957313B0913A8F0842.tmp' to '../../../../../../Users/Jan/Desktop/GGJ2025_Bubble/Content/BUBBLE_JAM/BP_Pickup.uasset'
+[2025.01.26-00.45.08:978][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 5.46 sec)
+[2025.01.26-00.45.08:985][144]AssetCheck: New page: Asset Save: BP_Pickup
+[2025.01.26-00.45.08:985][144]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BUBBLE_JAM/BP_Pickup.BP_Pickup
